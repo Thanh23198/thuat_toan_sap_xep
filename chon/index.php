@@ -1,5 +1,5 @@
 <?php
-$mang=array(1,2,3,-1,4,0);
+$mang=array(1, 9, 4.5, 6.6, 5.7, -4.5);
 $sophantu = count($mang);
     // Lặp để sắp xếp
     for ($i = 0; $i < $sophantu - 1; $i++)
